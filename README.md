@@ -26,4 +26,6 @@
 
 ## Goal:
   là phân tích các nhóm, xác định xem quảng cáo có thành công hay không?
-  bao nhiêu công ty có thể kiếm được từ quảng cáo và xem liệu sự khác biệt giữa các nhóm có ý nghĩa thống kê hay không?
+  bao nhiêu công ty có thể kiếm được từ quảng cáo
+  
+Việc hiển thị quảng cáo cho người dùng có dẫn đến việc mua sắm nhiều hơn không? Có ý nghĩa thống kê hay không?
