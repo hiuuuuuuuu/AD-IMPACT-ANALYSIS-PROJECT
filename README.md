@@ -11,11 +11,11 @@
 
   **user id**: Mã người dùng (duy nhất)
 
-  **test group**: Nếu là "ad" thì người đó đã xem quảng cáo, nếu là "psa" (public service announcement) thì họ chỉ xem thông báo dịch vụ cộng đồng
+  **test group**: Nếu là **"ad"** thì người đó **đã xem quảng cáo**, nếu là **"psa"** (public service announcement) thì họ **chỉ xem thông báo dịch vụ cộng đồng**
 
   **converted**: Nếu người đó mua sản phẩm thì là True, ngược lại là False
 
-  **total ads**: Số lượng quảng cáo mà người đó đã xem
+  **total ads**: Số lượng quảng cáo mà người đó **đã xem**
 
   **most ads day**: Ngày mà người đó xem số lượng quảng cáo lớn nhất
 
