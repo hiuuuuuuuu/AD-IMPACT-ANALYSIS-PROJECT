@@ -24,10 +24,8 @@
   **most ads hour**: Giờ trong ngày mà người đó xem số lượng quảng cáo lớn nhất
 
 ## Introduce:
-  Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they tun A/B tests, that is a randomized experimentation process wherein two or more versions of a variable     (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
-
+Các công ty tiếp thị muốn thực hiện các chiến dịch thành công, nhưng thị trường rất phức tạp và có nhiều lựa chọn có thể hiệu quả. Vì vậy, thông thường họ điều chỉnh các thử nghiệm A/B, đó là một quy trình thử nghiệm ngẫu nhiên trong đó hai hoặc nhiều phiên bản của một biến (trang web, thành phần trang, biểu ngữ, v.v.) được hiển thị cho các phân khúc người khác nhau cùng một lúc để xác định phiên bản nào để lại tác động tối đa và thúc đẩy các số liệu kinh doanh.
 ## Goal:
-  là phân tích các nhóm, xác định xem quảng cáo có thành công hay không?
-  bao nhiêu công ty có thể kiếm được từ quảng cáo
+  - Phân tích các nhóm, xác định xem quảng cáo có thành công hay không?
   
-Việc hiển thị quảng cáo cho người dùng có dẫn đến việc mua sắm nhiều hơn không? Có ý nghĩa thống kê hay không?
+  - Việc hiển thị quảng cáo cho người dùng có dẫn đến việc mua sắm nhiều hơn không? Có ý nghĩa thống kê hay không?
