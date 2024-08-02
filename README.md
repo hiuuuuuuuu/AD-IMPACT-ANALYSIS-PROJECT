@@ -5,6 +5,9 @@
 ### Data Source: 
   [marketing_AB.csv](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
+### Tool:
+- Python : JupyterLab
+
 ### Data Dictionary:
   **Index**: Chỉ số dòng
 
