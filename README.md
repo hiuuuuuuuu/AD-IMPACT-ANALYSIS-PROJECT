@@ -60,7 +60,7 @@ Control Group: (nhóm kiểm soát) nhóm người (psa) không tiếp xúc vớ
 * (H1): Việc hiển thị quảng cáo có ảnh hưởng đáng kể đến số lượng mua sắm.
 
 - Sử dụng phương pháp t-test so sánh hai mẫu độc lập giữa nhóm Treatment và nhóm Control thông qua tỷ lệ chuyển đổi:
-  ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/93f25e55-21cc-41e0-a1b2-4d4d046424c7)
   **Kết luận rằng**: Mặc dù p-value trong dữ liệu cân bằng cao hơn so với dữ liệu gốc, nhưng vẫn rất nhỏ, cho thấy rằng sự khác biệt đáng kể vẫn tồn tại trong dữ liệu đã cân bằng. Điều này cho thấy rằng cân bằng dữ liệu không làm mất đi sự khác biệt quan trọng giữa các nhóm.
 
 T-statistic: Giá trị t-statistic giảm nhẹ trong dữ liệu cân bằng, nhưng vẫn đủ lớn để chứng tỏ sự khác biệt đáng kể.
