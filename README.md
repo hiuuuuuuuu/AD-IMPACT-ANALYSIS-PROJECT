@@ -1,5 +1,6 @@
 # Ad Effectiveness and Revenue Impact Project
-![image](https://github.com/user-attachments/assets/ea499e34-0a66-4619-8133-587fbc207313)
+
+![image](https://github.com/user-attachments/assets/9d75a586-0032-46e1-b397-1077fe72705d)
 
 ### Data Source: 
   [marketing_AB.csv](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
