@@ -1,4 +1,4 @@
-# Ad Effectiveness and Revenue Impact Project
+# AD IMPACT ANALYSIS PROJECT
 
 ![image](https://github.com/user-attachments/assets/9d75a586-0032-46e1-b397-1077fe72705d)
 
