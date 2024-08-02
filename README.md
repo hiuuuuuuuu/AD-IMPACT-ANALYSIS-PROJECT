@@ -27,3 +27,9 @@ Các công ty tiếp thị muốn thực hiện các chiến dịch thành công
   - **Phân tích các nhóm, xác định xem quảng cáo có thành công hay không?**
   
   - **Việc hiển thị quảng cáo cho người dùng có dẫn đến việc mua sắm nhiều hơn không?**
+**Tool**: Python
+**1. Import and clean data**
+**2. Cân bằng dữ liệu**
+    - Mục đích của việc cân bằng dữ liệu giữa hai nhóm (trong trường hợp này là nhóm "ad" và nhóm "psa") bằng cách thực hiện undersampling nhóm lớn hơn là để giải quyết vấn đề mất cân bằng dữ liệu. Việc có số lượng mẫu tương đương từ cả hai nhóm sẽ giúp đảm bảo rằng các kết quả phân tích hoặc mô hình hóa không bị thiên lệch bởi nhóm có nhiều mẫu hơn.
+    -  undersampling nhóm ad để cân bằng số lượng với nhóm psa 
+
