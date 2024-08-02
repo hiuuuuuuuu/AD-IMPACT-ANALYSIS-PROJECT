@@ -53,6 +53,7 @@
 ### 4. A/B Test:
 
    **Phân tích các nhóm, xác định xem quảng cáo có thành công hay không?**
+   
 **Treatment Group:** (nhóm can thiệp) nhóm người (_ad_) thí nghiệm được tiếp xúc với yếu tố thử nghiệm hoặc thay đổi mới hiện thị quảng cáo. Mục tiêu là để xem liệu việc hiển thị quảng cáo có tăng tỷ lệ chuyển đổi hay không.
 
 **Control Group:** (nhóm kiểm soát) nhóm người (_psa_) không tiếp xúc với yếu tố thử nghiệm hoặc thay đổi mới hiển thị quảng cáo dịch vụ công. Mục tiêu là để so sánh với nhóm "treatment" và đánh giá hiệu quả thực sự của quảng cáo.
@@ -68,6 +69,7 @@
 ### 5.Hypothesis_testing :
 
 **Việc hiển thị quảng cáo cho người dùng có dẫn đến việc mua sắm nhiều hơn không?**
+
 * (H0): Việc hiển thị quảng cáo không có ảnh hưởng đáng kể đến số lượng mua sắm.
 * (H1): Việc hiển thị quảng cáo có ảnh hưởng đáng kể đến số lượng mua sắm.
 
