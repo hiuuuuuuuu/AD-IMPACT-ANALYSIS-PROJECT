@@ -1,8 +1,9 @@
 # Ad Effectiveness and Revenue Impact Project
-![image.png](attachment:0feddd7d-afc2-4e31-86f8-8204634f96c0.png)
+![Uploading image.png…]()
+
 
  ### Data Source: 
-  [marketing_AB.csv](https://www.kaggle.com/code/chenwei17557/rfm-customer-segmentation-and-3d-visualization/output?select=marketing_AB.csv)
+  [marketing_AB.csv](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
   ### Data Dictionary:
   **Index**: Chỉ số dòng
