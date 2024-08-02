@@ -57,6 +57,8 @@
 
 **Control Group:** (nhóm kiểm soát) nhóm người (_psa_) không tiếp xúc với yếu tố thử nghiệm hoặc thay đổi mới hiển thị quảng cáo dịch vụ công. Mục tiêu là để so sánh với nhóm "treatment" và đánh giá hiệu quả thực sự của quảng cáo.
 
+![image](https://github.com/user-attachments/assets/1e8a7e8c-55b4-4c89-bac5-cbaa5c086910)
+
 
 **Sau phân tích có quan sát đáng chú ý:**
 - Sự tăng nhẹ trong tỷ lệ chuyển đổi của nhóm Treatment khi cân bằng dữ liệu có thể cho thấy quảng cáo có tác động tích cực hơn trong điều kiện cân bằng. => **quảng cáo có thể thực sự đang ảnh hưởng lên hành vi người tiêu dùng.**
@@ -70,7 +72,9 @@
 * (H1): Việc hiển thị quảng cáo có ảnh hưởng đáng kể đến số lượng mua sắm.
 
 - Sử dụng phương pháp t-test so sánh hai mẫu độc lập giữa nhóm Treatment và nhóm Control thông qua tỷ lệ chuyển đổi:
-- 
+
+![image](https://github.com/user-attachments/assets/3bf8b622-5f79-478b-9a30-0e2507dae8db)
+
 
 **Kết luận rằng**: 
 - Mặc dù p-value trong dữ liệu cân bằng cao hơn so với dữ liệu gốc, nhưng vẫn rất nhỏ, cho thấy rằng sự khác biệt đáng kể vẫn tồn tại trong dữ liệu đã cân bằng. Điều này cho thấy rằng cân bằng dữ liệu không làm mất đi sự khác biệt quan trọng giữa các nhóm.
