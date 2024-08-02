@@ -35,15 +35,20 @@
 
 ### 3.EDA (Exploratory Data Analysis)
 
- ![image](https://github.com/user-attachments/assets/86e0707f-eebf-4573-ad37-1ef9d81d0840)
- 
- ![image](https://github.com/user-attachments/assets/d3545c35-0bd5-4392-93c8-7e11a8cf6d2c)
- 
- ![image](https://github.com/user-attachments/assets/769557b3-f6c6-49a3-a60b-ee00b3b2c3ca)
- 
- ![image](https://github.com/user-attachments/assets/2d785af1-33ee-4cbd-a2a6-740c510d0fec)
- 
- ![image](https://github.com/user-attachments/assets/4a05d437-d2c2-40c0-b26b-e7653d3a4fba)
+![image](https://github.com/user-attachments/assets/9229f0c9-a744-4b54-9eb2-38225f4f956f)
+
+![image](https://github.com/user-attachments/assets/5b8629fb-6f5a-49f6-a90c-61d1a9385877)
+
+![image](https://github.com/user-attachments/assets/054b8836-27a4-4c3a-8384-b2d33b475412)
+
+![image](https://github.com/user-attachments/assets/ea0d7554-feb2-4e79-bdd2-b1848112b533)
+
+![image](https://github.com/user-attachments/assets/8d7d7ba8-a37e-4879-be86-a201e58420da)
+
+
+
+
+
 
 ### 4. A/B Test:
 
@@ -52,7 +57,6 @@
 
 **Control Group:** (nhóm kiểm soát) nhóm người (_psa_) không tiếp xúc với yếu tố thử nghiệm hoặc thay đổi mới hiển thị quảng cáo dịch vụ công. Mục tiêu là để so sánh với nhóm "treatment" và đánh giá hiệu quả thực sự của quảng cáo.
 
-![image](https://github.com/user-attachments/assets/af313aff-9a99-4bd2-a43e-413e233b3a1a)
 
 **Sau phân tích có quan sát đáng chú ý:**
 - Sự tăng nhẹ trong tỷ lệ chuyển đổi của nhóm Treatment khi cân bằng dữ liệu có thể cho thấy quảng cáo có tác động tích cực hơn trong điều kiện cân bằng. => **quảng cáo có thể thực sự đang ảnh hưởng lên hành vi người tiêu dùng.**
@@ -67,7 +71,6 @@
 
 - Sử dụng phương pháp t-test so sánh hai mẫu độc lập giữa nhóm Treatment và nhóm Control thông qua tỷ lệ chuyển đổi:
 - 
-![image](https://github.com/user-attachments/assets/93f25e55-21cc-41e0-a1b2-4d4d046424c7)
 
 **Kết luận rằng**: 
 - Mặc dù p-value trong dữ liệu cân bằng cao hơn so với dữ liệu gốc, nhưng vẫn rất nhỏ, cho thấy rằng sự khác biệt đáng kể vẫn tồn tại trong dữ liệu đã cân bằng. Điều này cho thấy rằng cân bằng dữ liệu không làm mất đi sự khác biệt quan trọng giữa các nhóm.
